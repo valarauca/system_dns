@@ -1,6 +1,6 @@
 [package]
 name = "system_dns"
-version = "0.1.0"
+version = "1.0.0"
 authors = ["William Cody Laeder <codylaeder@gmail.com>"]
 description = "Simple API to query the system dns"
 homepage = "https://github.com/valarauca/system_dns"
