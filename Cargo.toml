@@ -1,7 +1,14 @@
 [package]
 name = "system_dns"
 version = "0.1.0"
-authors = ["William Cody Laeder <cody@shiftleft.io>"]
+authors = ["William Cody Laeder <codylaeder@gmail.com>"]
+description = "Simple API to query the system dns"
+homepage = "https://github.com/valarauca/system_dns"
+repository = "https://github.com/valarauca/system_dns"
+documentation = "https://valarauca.github.io/system_dns/system_dns/index.html"
+readme = "README.md"
+keywords = ["dns", "DNS", "system"]
+license = "Apache-2.0"
 
 [dependencies]
 libc = "0.2"
